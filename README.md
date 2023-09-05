@@ -12,7 +12,7 @@ My name is Jason Nguyen.
 
 📫 How to reach me: 
 
-> nguyen.2109@osu.edu
+> Email: nguyen.2109@osu.edu
 
 <!--
 **JasonNguyen2109/JasonNguyen2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
